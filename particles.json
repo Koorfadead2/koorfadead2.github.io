@@ -2,7 +2,7 @@
   "particles":{
     "number":{
       "value":50
-    },
+    }
     "color":{
       "value":"#fff"
     },
