@@ -19,7 +19,13 @@
     "move":{
       "enable":true,
       "speed":12
-      }
+      },
+     "modes":{
+      "repulse":{
+        "distance":50,
+        "duration":0.4
+        }
+     }
     }
   }
 }
