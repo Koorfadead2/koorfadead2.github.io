@@ -5,6 +5,12 @@
     },
     "color":{
       "value":"#fff"
+    },
+    "shape":{
+      "type":"circle"
+    },
+    "size":{
+      "value":"4"    
     }
   }
 }
