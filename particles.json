@@ -10,7 +10,12 @@
       "type":"circle"
     },
     "size":{
-      "value":4    
+      "value":4,
+      "random":false,
+      "anim":{
+        "enable":true,
+        "speed":30
+      }
     }
   }
 }
