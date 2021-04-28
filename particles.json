@@ -30,8 +30,7 @@
       "repulse":{
         "distance":50,
         "duration":0.4
-        }
+       }
      }
-    }
-  }
+   }
 }
