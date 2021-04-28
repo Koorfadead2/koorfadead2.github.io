@@ -7,7 +7,7 @@
       "value":"#fff"
     },
     "shape":{
-      "type":"circle"
+      "type":"polygon"
     },
     "size":{
       "value":4,
