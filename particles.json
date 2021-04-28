@@ -16,6 +16,11 @@
         "enable":true,
         "speed":30
       },
+    "line_linked":{
+      "enable":true,
+      "distance": 120,
+      "color":"#9932CC"
+    },
     "move":{
       "enable":true,
       "speed":12
