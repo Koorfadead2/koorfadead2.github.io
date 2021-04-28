@@ -15,6 +15,7 @@
       "anim":{
         "enable":true,
         "speed":30
+        }
       },
     "line_linked":{
       "enable":true,
