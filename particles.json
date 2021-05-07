@@ -19,7 +19,7 @@
       },
     "line_linked":{
       "enable":true,
-      "distance": 120,
+      "distance": 120
     },
     "move":{
       "enable":true,
