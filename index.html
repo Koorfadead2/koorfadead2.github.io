@@ -6,6 +6,10 @@
   	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Smh</title>
 	<link rel="stylesheet" href="style.css">
+	<style>
+  	 html { overflow:  hidden; }
+   	 div { height:  2000px; }
+ 	</style>
 </head>
 <body>
 	<div id="particles-js"></div>
@@ -19,7 +23,7 @@
 	<svg>
 		<filter id="fire">
 			<feTurbulence id="turbulence" baseFrequency ="0.1 0.1" numOctaves ="2" seed="3"></feTurbulence>
-			<animate attributeName="baseFrequency" dur="10s" values="0.1 0.1;0.12 0.2" repeatCount="indefinite"></animate>
+			<animate attributeName="baseFrequency" dur="5s" values="0.1 0.1;0.12 0.2" repeatCount="indefinite"></animate>
 			<feDisplacementMap in="SourceGraphic" scale="10"></feDisplacementMap>
 		</filter>
 </body>
