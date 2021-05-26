@@ -4,7 +4,7 @@
 	font-family: 'Source Sans Pro', sans-serif;
 }
 .social a {
-	position: absolute; 
+    position: absolute; 
     width: 28px;
     bottom: 20px;
     background: #fff;
@@ -24,7 +24,9 @@
 	height:955px;
 }
 #text {
- 	position: absolute;    
+    max-width: 2000px;
+    max-height: 0px;
+    position: absolute;    
     color: orange;
     text-align: center;    
     font-size: 48px;
