@@ -1,4 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+}
 #particles-js{
 	background: firebrick;
 	height:945px;
+}
+#text {
+ 	position: absolute;    
+    color: orange;
+    text-align: center;    
+    font-size: 48px;
+    width: 100%;
+    top: 350px;
+    filter: url(#fire);
+}
+
+.text h2
+{
+	color: #ffeb3b;
+	text-shadow: 0 0 10px #ff8c3b
+	 0 0 10px #ff8c3b
+	 0 0 40px #ff8c3b
+	 0 0 80px #ff8c3b
+	 0 0 160px #ff8c3b
+	 0 0 240px #ff8c3b
 }
