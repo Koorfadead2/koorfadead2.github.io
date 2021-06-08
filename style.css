@@ -21,8 +21,7 @@
 
 #particles-js{
 	background: firebrick;
-	height:970px;
-	width:2000px;
+	background-size: 100%; 
 }
 #text {
     max-width: 2000px;
