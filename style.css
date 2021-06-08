@@ -3,7 +3,15 @@
 {
 	font-family: 'Source Sans Pro', sans-serif;
 }
-.social a {
+
+#main{
+    position: absolute;    
+    margin: auto;
+    top: 850px;
+    font-size: 12px;
+    margin-left: 460px;
+}
+.social1 a {
     position: absolute; 
     width: 28px;
     bottom: 20px;
@@ -12,17 +20,134 @@
     box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
     border-radius: 24px;
     margin: auto;
-    margin-left: 900px;
+    margin-left: 500px;
     padding: 3px;
     text-align: center;
     color: #000;
 }
 .github a:hover {background: #191919; color: #fff;}
 
+
+#tic{
+    position: absolute;    
+    margin: auto;
+    top: 850px;
+    font-size: 12px;
+    margin-left: 600px;
+}
+.social2 a {
+    position: absolute; 
+    width: 28px;
+    bottom: 20px;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: auto;
+    margin-left: 640px;
+    padding: 3px;
+    text-align: center;
+    color: #000;
+}
+.github a:hover {background: #191919; color: #fff;}
+
+#complex{
+    position: absolute;    
+    margin: auto;
+    top: 850px;
+    font-size: 12px;
+    margin-left: 740px;
+}
+.social3 a {
+    position: absolute; 
+    width: 28px;
+    bottom: 20px;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: auto;
+    margin-left: 770px;
+    padding: 3px;
+    text-align: center;
+    color: #000;
+}
+.github a:hover {background: #191919; color: #fff;}
+
+#trex{
+    position: absolute;    
+    margin: auto;
+    top: 850px;
+    font-size: 12px;
+    margin-left: 860px;
+}
+.social4 a {
+    position: absolute; 
+    width: 28px;
+    bottom: 20px;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: auto;
+    margin-left: 870px;
+    padding: 3px;
+    text-align: center;
+    color: #000;
+}
+.github a:hover {background: #191919; color: #fff;}
+
+#clock{
+    position: absolute;    
+    margin: auto;
+    top: 850px;
+    font-size: 12px;
+    margin-left: 940px;
+}
+.social5 a {
+    position: absolute; 
+    width: 28px;
+    bottom: 20px;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: auto;
+    margin-left: 990px;
+    padding: 3px;
+    text-align: center;
+    color: #000;
+}
+.github a:hover {background: #191919; color: #fff;}
+
+#pac{
+    position: absolute;    
+    margin: auto;
+    top: 850px;
+    font-size: 12px;
+    margin-left: 1100px;
+}
+.social6 a {
+    position: absolute; 
+    width: 28px;
+    bottom: 20px;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: auto;
+    margin-left: 1125px;
+    padding: 3px;
+    text-align: center;
+    color: #000;
+}
+.github a:hover {background: #191919; color: #fff;}
+
+
 #particles-js{
 	background: firebrick;
-	background-size: 100%; 
-}
+    background-size: 100%;
+	}
 #text {
     max-width: 2000px;
     max-height: 0px;
