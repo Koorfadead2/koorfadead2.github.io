@@ -1,2 +1,2 @@
 # koorfadead2.github.io
-PacMan, T-rex made by Кирков Алексей and Павлов Вячеслав
+PacMan, T-rex, Tic-Tac-Toe made by Кирков Алексей and Павлов Вячеслав
